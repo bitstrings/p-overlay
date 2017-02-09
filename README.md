@@ -1,2 +1,3 @@
-# p-overlay
-Gentoo overlay
+# Gentoo overlay
+
+Stuff that I use.
